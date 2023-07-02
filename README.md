@@ -1,4 +1,4 @@
-#React Portfolio Website
+#React_Portfolio_Website
 
 ### Home Section &darr;
 <img src="src/assets/Home.png" alt="home section" width="100%" height="auto" />
