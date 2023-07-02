@@ -1,4 +1,4 @@
-# midterm_assessment
+#React Portfolio Website
 
 ### Home Section &darr;
 <img src="src/assets/Home.png" alt="home section" width="100%" height="auto" />
